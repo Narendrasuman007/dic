@@ -1,0 +1,7 @@
+{
+  "name": "English by Suman",
+  "description": "An advanced, personalized vocabulary learning assistant for English-to-Hindi learners powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
